@@ -1,0 +1,12 @@
+## Hosts associated with the Shady Panda extensions
+##
+## From:
+## https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign
+
+0.0.0.0 extensionplay.com
+0.0.0.0 yearnnewtab.com
+0.0.0.0 api.cgatgpt.net
+0.0.0.0 dergoodting.com
+0.0.0.0 cleanmasters.store
+0.0.0.0 s-85283.gotocdn.com
+0.0.0.0 s-82923.gotocdn.com
